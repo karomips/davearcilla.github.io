@@ -30,6 +30,7 @@
 	"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).",
 	"main": "eslint.config.js",
 	"dependencies": {
+		"@sveltejs/adapter-static": "^3.0.5",
 		"acorn": "^8.12.1",
 		"acorn-jsx": "^5.3.2",
 		"ajv": "^6.12.6",
